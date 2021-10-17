@@ -1,1 +1,1 @@
-# cssMemSlider
+# cssMemSlider by I.Khramko
